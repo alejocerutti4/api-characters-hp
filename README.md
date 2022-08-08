@@ -13,7 +13,7 @@ Alejo Cerutti
 
 ## Technology
 
-- Programming languaje: Javascript
+- Programming language: Javascript
 - API Framework: Node Js
 - Web-server: AWS - ec2 instance
 - Database: DynamoDB
