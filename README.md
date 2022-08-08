@@ -1,4 +1,4 @@
-# Django weather challenge
+# Harry Potter character management API
 
 ## Overview
 
