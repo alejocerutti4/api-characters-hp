@@ -19,7 +19,7 @@ Alejo Cerutti
 - Database: DynamoDB
 
 ## API Documentation
-- API swagger: http://18.231.190.180:8080/api-docs/
+- API Swagger: http://18.231.190.180:8080/api-docs/
 
 ## How to use the API
 
