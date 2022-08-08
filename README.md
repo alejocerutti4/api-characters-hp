@@ -15,7 +15,7 @@ Alejo Cerutti
 
 - Programming languaje: Javascript
 - API Framework: Node Js
-- Web-server: AWS - ec2 Instante
+- Web-server: AWS - ec2 instance
 
 ## API Documentation
 - API swagger: http://18.231.190.180:8080/api-docs/
